@@ -1,0 +1,123 @@
+@media (min-width: 300px) and (max-width: 411px) {
+    .container {
+        margin: 10% 0 0 0 !important;
+    }
+    .card-info {
+        margin: 5% 1% 1% 1% !important;
+        text-align: center !important;
+    }
+
+    .card-info img {
+        display: block;
+        margin-top: 1em;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        width: 60% !important;
+        height: 60% !important;
+        object-fit: contain;
+      }
+
+    .container #specs {
+        margin: 1em 0 3em 0.2em !important;
+    }
+}
+
+@media (min-width: 412px) and (max-width: 468px){
+    .container {
+        margin: 10% 0 0 0 !important;
+    }
+    .card-info {
+        margin: 5% 1% 1% 1% !important;
+        text-align: center !important;
+    }
+
+    .card-info img {
+        display: block;
+        margin-top: 1em;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        width: 70% !important;
+        height: 70% !important;
+        object-fit: contain;
+      }
+
+    .container #specs {
+        margin: 1em 0 3em 0 !important;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 992px){
+    .container {
+        margin: 10% 0 0 0 !important;
+    }
+    .card-info {
+        margin: 5% 1% 1% 1% !important;
+        text-align: center !important;
+    }
+
+    .card-info img {
+        display: block;
+        margin-top: 1em;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        width: 60% !important;
+        height: 60% !important;
+        object-fit: contain;
+      }
+
+    .container #specs {
+        margin: 1em -4em 3em 0 !important;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .container {
+        margin: 10% 0 0 0 !important;
+    }
+    .card-info {
+        margin: 5% 1% 1% 1% !important;
+        text-align: center !important;
+    }
+
+    .card-info img {
+        display: block;
+        margin-top: 1em;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        width: 60% !important;
+        height: 60% !important;
+        object-fit: contain;
+      }
+
+    .container #specs {
+        margin: 1em -4em 3em 0 !important;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1400px) {
+    .container {
+        margin: 1% 0 0 0 !important;
+    }
+    .card-info {
+        margin: 5% 1% 1% 1% !important;
+        text-align: center !important;
+    }
+
+    .card-info img {
+        display: block;
+        margin-top: 1em;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        width: 60% !important;
+        height: 60% !important;
+        object-fit: contain;
+      }
+
+    .container #specs {
+        margin: 1em -4em 3em 0 !important;
+    }
+}
+
+@media (min-width: 1400px) and (max-width: 1600px) {
+    
+}

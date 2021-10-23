@@ -1,0 +1,77 @@
+@media (min-width: 300px) and (max-width: 411px) {
+    .container h1 {
+        font-size: 250%;
+        margin: 4em 0 0 0;
+        text-align: center;
+    }
+    .container #initial {
+        margin: 0.5em 0 0 0.5em !important;   
+    }
+}
+
+@media (min-width: 412px) and (max-width: 468px){
+    .container h1 {
+        font-size: 250%;
+        margin: 5.5em 0 0.5em 0;
+        text-align: center;
+    }
+    .container #initial {
+        margin: 0.5em 0 0 1.2em !important;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 992px){
+    .container h1 {
+        font-size: 250%;
+        margin: 7em 0 0.5em 0;
+        text-align: center;
+    }
+    .container #initial {
+        margin: 0.3em 0 0 4.2em !important;
+    }
+    .container a {
+        margin-right: 15px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .container h1 {
+        font-size: 300%;
+        margin: 7em 0 0.5em 0;
+        text-align: center;
+    }
+    .container #initial {
+        margin: 0.3em 0 0 6.8em !important;
+    }
+    .container a {
+        margin-right: 15px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1400px) {
+    .container h1 {
+        font-size: 300%;
+        margin: 3em 0 0.5em 0;
+        text-align: center;
+    }
+    .container #initial {
+        margin: 0.3em 0 0 8.6em !important;
+    }
+    .container a {
+        margin-right: 15px;
+    }
+}
+
+@media (min-width: 1400px) and (max-width: 1600px) {
+    .container h1 {
+        font-size: 300%;
+        margin: 4em 0 0.5em 0;
+        text-align: center;
+    }
+    .container #initial {
+        margin: 0.3em 0 0 10.5em !important;
+    }
+    .container a {
+        margin-right: 15px;
+    }
+}
